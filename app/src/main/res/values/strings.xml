@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">h</string>
+    <string name="activity_tab">Activity Tab</string>
+    <string name="_0">0</string>
+    <string name="image">My</string>
+    <string name="sekolah">Sekolah</string>
+    <string name="purwokerto_jawa_tengah">Purwokerto, Jawa Tengah</string>
+    <string name="hometown">Hometown</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="gender">Gender</string>
+    <string name="semangat_belajar_android">Semangat Belajar Android</string>
+    <string name="afiv_adnan_rozaky">Afiv Adnan Rozaky</string>
+    <string name="smk_negeri_1_purwokerto">SMK Negeri 1 Purwokerto</string>
+    <string name="hobi">Hobi</string>
+    <string name="programming">Programming</string>
+    <string name="instagram">Instagram</string>
+    <string name="afivadnn">afivadnn</string>
+
+    <string name="tik">.</string>
+    <string name="a">(</string>
+    <string name="b">)</string>
+    <string name="div">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multi">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subs">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">+</string>
+    <string name="c">C</string>
+    <string name="del">⌫</string>
+    <string name="res">=</string>
+    <string name="anda_menekan_tombol_power_sebanyak">Anda menekan tombol power sebanyak</string>
+</resources>

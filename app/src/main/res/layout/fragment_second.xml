@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="@dimen/_150sdp"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:contentDescription="@string/image"
+            android:src="@drawable/gw">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/text"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textSize="@dimen/_20ssp"
+            android:text="@string/afiv_adnan_rozaky"
+            android:layout_gravity="center">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginStart="0dp"
+            android:layout_gravity="center"
+            android:text="@string/semangat_belajar_android">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gender">
+        </TextView>
+
+        <TextView
+            android:id="@+id/gender"
+            style="@style/text"
+            android:text="@string/laki_laki">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginTop="@dimen/_9sdp"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hometown">
+        </TextView>
+
+        <TextView
+            android:id="@+id/lok"
+            style="@style/text"
+            android:text="@string/purwokerto_jawa_tengah">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginTop="@dimen/_9sdp"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sekolah">
+        </TextView>
+
+        <TextView
+            android:id="@+id/col"
+            style="@style/text"
+            android:text="@string/smk_negeri_1_purwokerto">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginTop="@dimen/_9sdp"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hobi">
+        </TextView>
+
+        <TextView
+            android:id="@+id/hobby"
+            style="@style/text"
+            android:text="@string/programming">
+        </TextView>
+
+        <TextView
+            style="@style/text2"
+            android:layout_marginTop="@dimen/_9sdp"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instagram">
+        </TextView>
+
+        <TextView
+            android:id="@+id/ig"
+            style="@style/text"
+            android:text="@string/afivadnn">
+        </TextView>
+
+    </LinearLayout>
+</ScrollView>
